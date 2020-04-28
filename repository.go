@@ -2,7 +2,6 @@
 package main
 
 import (
-	"context"
 	pb "github.com/canhdoan/shippy-service-user/proto/user"
 	"github.com/jinzhu/gorm"
 )
